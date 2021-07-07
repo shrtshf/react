@@ -47,6 +47,8 @@ const experimentalPackages = [
   'react-fs',
   'react-pg',
   'react-server-dom-webpack',
+  'react-server-dom-webpack',
+  'react-server-dom-webpack',
 ];
 
 module.exports = {
